@@ -35,11 +35,7 @@
 			<version>2.4</version>
 		</dependency>
 
-		<dependency>
-		        <groupId>com.atlassian</groupId>
-		        <artifactId>atlassian-localhost</artifactId>
-		        <version>1.2.0</version>
-		</dependency>
+		
 
 	</dependencies>
 	
